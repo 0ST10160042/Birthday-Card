@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-family: Nasalization;
-    src: url('/font/Nasa.ttf');
+    src: url('/tesla/');
     background: linear-gradient(#500f15, #EFB0C9);
     color: #ffffff;
 }
